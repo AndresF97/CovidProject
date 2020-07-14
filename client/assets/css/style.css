@@ -7,10 +7,19 @@
     font-size: 30px;
     font-family: 'Source Sans Pro', sans-serif;
   }
-  img{
+  #mainImage{
       opacity: 0.5
       !important;
   }
   .header{
     font-family: 'Source Sans Pro', sans-serif;
+  }
+  .areas{
+    text-align: left
+  }
+  a{
+    color: black
+  }
+  a:hover{
+    text-decoration: underline
   }
