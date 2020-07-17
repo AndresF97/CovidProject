@@ -14,6 +14,9 @@
   .header{
     font-family: 'Source Sans Pro', sans-serif;
   }
+  .list{
+    font-weight: bold;
+  }
   .areas{
     text-align: left
   }
